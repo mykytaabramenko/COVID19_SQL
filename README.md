@@ -1,2 +1,4 @@
 # COVID19_SQL
 COVID19 SQL Portfolio Project
+
+This is my SQL portfolio project. I used the data on COVID19 from https://ourworldindata.org/covid-deaths. The DBMS I used for the project is Microsoft SQL Server. In the project I performed data analysis on the given data using simpe SQL statements (SELECT, GROUP BY, WHERE etc.) as well as more advanced techniques such as subqueries, joins, window functions, CTE and temporary tables. I have put a lot of the explanatory comments in the file with all the queries for you to walk through with deeper understanding what I am doing in a particular query. I have also created some views that I am going to use in another project for my portfolio, where I am going to create some visualizations with Tableau. I have also made my code as clean as possible, so that anyone could read it very easily. 
